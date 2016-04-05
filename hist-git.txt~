@@ -1,0 +1,340 @@
+    1  ll
+    2  pwd
+    3  touch webhost081.txt
+    4  ll
+    5  exit
+    6  pwd
+    7  ls -lia
+    8  more webhost081.txt 
+    9  cd /www
+   10  ls -lia
+   11  cd ecos-dev/htdocs
+   12  exit
+   13  cd /www/
+   14  ll
+   15  pwd
+   16  dev
+   17  test
+   18  edev
+   19  etest
+   20  eprod
+   21  ls -lia
+   22  emacs -nw .bashrc
+   23  ll
+   24  ls -lia
+   25  pwd
+   26  cd
+   27  ll
+   28  ls -lia
+   29  cd /www
+   30  ll
+   31  ls -lia
+   32  cp .bashrc ~/
+   33  cd
+   34  pwd
+   35  ll
+   36  ls -lia
+   37  emacs -nw .bashrc
+   38  source .bashrc
+   39  edev
+   40  cd /www
+   41  ll
+   42  cd ecos-dev
+   43  sudu su - lamp cd ecos-dev
+   44  sudu 
+   45  man sudu
+   46  man sudull
+   47  sudo su - lamp cd ecos-dev
+   48  sudo su - lamp cd /www/ecos-dev
+   49  sudo  -u lamp cd /www/ecos-dev
+   50  sudo -u lamp cd /www/ecos-dev
+   51  whoami
+   52  sudo -u lamp
+   53  sudo -u lamp 
+   54  sudo -u lamp bash
+   55  cd
+   56  ll
+   57  ls -lia
+   58  emacs -nw .bashrc
+   59  s
+   60  alias
+   61  lamp
+   62  whoami
+   63  lll
+   64  ll
+   65  cd /www
+   66  ll
+   67  git
+   68  git -u push github_origin master
+   69  git push -u github_origin master
+   70  whoami
+   71  sudo -u lamp bash
+   72  exit
+   73  pwd
+   74  ll
+   75  cd /www
+   76  ll
+   77  whoami
+   78  exit
+   79  pwd
+   80  ll
+   81  ls -lia
+   82  more .bashrc
+   83  emacs -nw  .bashrc
+   84  pwd
+   85  ll
+   86  exit
+   87  pwd
+   88  cd /www
+   89  ll
+   90  sudo -u lamp bash
+   91  cd
+   92  ll
+   93  ls -lia
+   94  emacs -nw gitnotes.txt
+   95  more gitnotes.txt 
+   96  sudu -u lamp bash
+   97  sudo -u lamp bash
+   98  exit
+   99  sudo -u lamp bash
+  100  ll
+  101  exit
+  102  ll
+  103  sudo -u lamp bash
+  104  exit
+  105  sudo -u lamp bash
+  106  whoami
+  107  sudo -u lamp bash
+  108  exit
+  109  pwd
+  110  alias
+  111  sudo -u lamp bash
+  112  ll
+  113  sudo -u lamp bash
+  114  exit
+  115  sudo -u lamp bash
+  116  ll
+  117  exit
+  118  w
+  119  whoami
+  120  ll
+  121  sudo -u lamp bash
+  122  exit
+  123  pwd
+  124  alias
+  125  source .bashrc
+  126  ll
+  127  alias
+  128  edev
+  129  sudo -u lamp bash
+  130  exit
+  131  w
+  132  pwd
+  133  ll
+  134  man mkdir
+  135  mkdir -p ~/git/testing
+  136  ll
+  137  cd git
+  138  ll
+  139  cd testing/
+  140  ll
+  141  emacs file-1.txt
+  142  emacs file-2.txt
+  143  ll
+  144  ll > file-3.txt
+  145  emacs file-3.txt 
+  146  ll
+  147  pwd
+  148  git init
+  149  ls -lia
+  150  git add .
+  151  git status
+  152  git commit -m "initial commit of he22/git/testing""
+  153  git commit -m "initial commit of he22/git/testing"
+  154  ll
+  155  pwd
+  156  ls -lia
+  157  cd .git
+  158  ll
+  159  more config 
+  160  pwd
+  161  c
+  162  cd ..
+  163  ll
+  164  cd
+  165  ll
+  166  emacs .bashrc
+  167  c
+  168  s
+  169  whoami
+  170  source .bashrc
+  171  c
+  172  pwd
+  173  cd
+  174  ll
+  175  cd git/testing/
+  176  ll
+  177  git remote add origin_test1 https://hughedwards@github.com/test-repo1.git
+  178  more .git/config 
+  179  git remote -v
+  180  ll
+  181  rm file-3.txt~
+  182  ll
+  183  more file-3.txt 
+  184  emacs file-3.txt 
+  185  ll
+  186  more file-3.txt 
+  187  ll
+  188  more file-1.txt 
+  189  more file-2.txt 
+  190  ll
+  191  git add .
+  192  git commit -m "2nd commit of /git/testing""
+  193  git commit -m "2nd commit of /git/testing"
+  194  git push origin_test1 master 
+  195  ll
+  196  more .git/config
+  197  git push origin_test1 master 
+  198  emacs .git/config 
+  199  ll
+  200  git push origin_test1 master 
+  201  emacs .git/config 
+  202  git push origin_test1 master 
+  203  emacs .git/config 
+  204  ll
+  205  git push origin_test1 master 
+  206  more  .git/config 
+  207  emacs .git/config 
+  208  git push origin_test1 master 
+  209  emacs .git/config 
+  210  git push origin_test1 master 
+  211  pwd
+  212  emacs .git/config 
+  213  ll
+  214  ls -lia
+  215  pwd
+  216  ll
+  217  ll .git
+  218  ls -lia
+  219  more .git/config
+  220  emacs  .git/config
+  221  git push origin_test1 master
+  222  man unset
+  223  ll
+  224  xunset SSH_ASKPASS
+  225  whoami
+  226  unset SSH_ASKPASS
+  227  ll
+  228  git push origin_test1 master
+  229  more .git/config
+  230  whoami
+  231  ll
+  232  git branch -a
+  233  git add .
+  234  git commit -m "3rd commit  /git/testing"
+  235  git push origin_test1 production
+  236  more .git/config
+  237  git branch -a
+  238  git checkout -b develop
+  239  ll
+  240  git branch -a
+  241  git checkout -b master
+  242  git checkout master
+  243  git branch -a
+  244  git checkout develop
+  245  git branch -a
+  246  git checkout xxx
+  247  branch -a
+  248  git branch -a
+  249  whoami
+  250  touch develop.txt
+  251  ll
+  252  git add develop.txt 
+  253  git commit -m "add develope.txt file"
+  254  ll
+  255  git commit -m "add develope.txt file" develop.txt 
+  256  git status
+  257  git branch
+  258  ll
+  259  git checkout master
+  260  git branch
+  261  ll
+  262  git branch
+  263  git checkout develop
+  264  git branch
+  265  ll
+  266  git branch
+  267  git checkout master
+  268  git branch
+  269  ll
+  270  git merge develop --no-ff
+  271  ll
+  272  git push
+  273  history | grep push
+  274   git push origin_test1 master
+  275  ll
+  276  git branch
+  277  git checkout develop
+  278  ll
+  279  emacs develop.txt 
+  280  ll
+  281  git branch
+  282  git add develop.txt 
+  283  ll
+  284  git commit -m "changes to develop.txt file in DEV BRANCH" develop.txt 
+  285   git push origin_test1 develop
+  286  git branch
+  287  exit
+  288  pwd
+  289  ll
+  290  cd git
+  291  ll
+  292  cd testing/
+  293  ll
+  294  exit
+  295  ll
+  296  sudo -u lamp bash
+  297  exit
+  298  sudo -u lamp bash
+  299  exit
+  300  sudo -u lamp bash
+  301  exit
+  302  sudo -u lamp bash
+  303  exit
+  304  ll
+  305  whoami
+  306  sudo -u lamp bash
+  307  exit
+  308  whoami
+  309  sudo -u lamp bash
+  310  exit
+  311  ll
+  312  whoami
+  313  sudo -u lamp bash
+  314  exit
+  315  sudo -u lamp bash
+  316  exit
+  317  ll
+  318  whoami
+  319  ll
+  320  ecosdev
+  321  sudo -u lamp bash
+  322  cd
+  323  ll
+  324  cd git
+  325  ll
+  326  exit
+  327  ll
+  328  cd git
+  329  ll
+  330  pwd
+  331  ll
+  332  cd testing/
+  333  ll
+  334  c
+  335  ll
+  336  ls -lia
+  337  git log
+  338  history | more
+  339  pwd
+  340  history > hist-git.txt
