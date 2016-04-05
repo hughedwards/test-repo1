@@ -1,1 +1,9 @@
 changing this file in DEV branch.
+total 32
+-rw-rw-r-- 1 he22 he22   34 Apr  5 11:41 develop.txt
+-rw-rw-r-- 1 he22 he22   36 Mar 16 08:53 file-1.txt
+-rw-rw-r-- 1 he22 he22   16 Mar 16 08:53 file-2.txt
+-rw-rw-r-- 1 he22 he22    8 Mar 16 10:03 file-3.txt
+-rw-rw-r-- 1 he22 he22   41 Apr  5 11:41 for-master.txt
+-rw-rw-r-- 1 he22 he22 3140 Apr  5 11:41 hist-git.txt
+-rw-rw-r-- 1 he22 he22 6220 Apr  5 11:41 hist-git.txt~
